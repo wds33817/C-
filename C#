@@ -1,2 +1,4 @@
 Click OrderBy and click ctrl + J   ->   use OrderByDescending
 
+Can use .ThenByDescending(x => x.YearsExperience).ToList()
+
